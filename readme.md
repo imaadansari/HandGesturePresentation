@@ -25,6 +25,8 @@ python resize.py
 ```sh
 python main.py
 ```
+
+3) Instructions
 - Use pinky finger to move to next slide.
 - Use thumb to move to previous slide.
 - Use index and middle-finger together as a pointer.
